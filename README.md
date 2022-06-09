@@ -1,5 +1,5 @@
 # LukaKu-ML
-
+![Frame (1)](https://user-images.githubusercontent.com/99231156/172878226-cb4c58a8-ce89-4230-91d0-793e4c0ae23d.png)
 ## Profile
 Team ID: C22-PS188
 
