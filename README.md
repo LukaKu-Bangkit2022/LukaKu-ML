@@ -25,12 +25,12 @@ Building a model which detects multiple categories of human skin wounds using va
 Wound Classification on Human Skin 
 
 ### Dataset Link
-- Kaggle:
+- Kaggle
   - https://www.kaggle.com/datasets/xxunxiao/wound-classify 
   - https://www.kaggle.com/datasets/xxunxiao/wound-cls-with-cut 
   - https://www.kaggle.com/datasets/xxunxiao/wound-cls-4-13 
-- Medetec:
-http://www.medetec.co.uk/files/medetec-image-databases.html
+- Medetec
+  - http://www.medetec.co.uk/files/medetec-image-databases.html
 
 ### Features
 1. EDA (Exploratory Data Analysis) for Data Length and Images
