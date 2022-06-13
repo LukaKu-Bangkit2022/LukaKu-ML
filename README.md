@@ -1,5 +1,7 @@
 # LukaKu-ML
-![Frame (1)](https://user-images.githubusercontent.com/99231156/172878226-cb4c58a8-ce89-4230-91d0-793e4c0ae23d.png)
+
+![Lukaku with Tenserflow](https://user-images.githubusercontent.com/51723168/173278229-838c1877-d27b-4566-96ec-9c74ef19f29d.png)
+
 ## Profile
 Team ID: C22-PS188
 
